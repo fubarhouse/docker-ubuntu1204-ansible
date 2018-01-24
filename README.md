@@ -1,3 +1,9 @@
+**PLEASE NOTE, THIS IS YET ANOTHER FORK OF JEFF GEERLING'S DOCKER IMAGES TAILORED FOR PERSONAL USE**
+
+I cannot have more than one fork, and I don't want to take any credit away from him.
+
+The purpose of this is to layer my own software onto his existing Docker image for continued support.
+
 # Ubuntu 12.04 LTS (Precise) Ansible Test Image
 
 [![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-ubuntu1204-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-ubuntu1204-ansible/)
